@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>mario@clancats.com</string>
+	<key>contactName</key>
+	<string>Mario Döring</string>
+	<key>description</key>
+	<string>ClanCats Container syntax support.</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>ClanCatsContainer</string>
+	<key>source</key>
+	<dict>
+		<key>method</key>
+		<string>git</string>
+		<key>url</key>
+		<string>git@github.com:clancats/ctn.tmbundle</string>
+	</dict>
+	<key>uuid</key>
+	<string>a0c76d05-01ba-4b05-b2e7-b4e84170edec</string>
+</dict>
+</plist>
